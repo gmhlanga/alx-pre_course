@@ -1,0 +1,4 @@
+git config --global user.email:gmhlanga7430@gmail.com
+git config --globaluser.name"gmhlanga7430"
+git add --all
+git push
